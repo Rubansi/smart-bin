@@ -1,0 +1,1 @@
+This is a digital waste management app
